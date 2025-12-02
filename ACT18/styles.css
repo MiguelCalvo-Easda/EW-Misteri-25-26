@@ -1,0 +1,118 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    width: 1200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    border: 2px red solid;
+    height: 180px; 
+  
+}
+
+.logo{
+    border: 2px orange solid;
+    width: 596px;
+    height: 180px;
+    float: left;
+    text-align: center;
+}
+.logo1{
+    width: 250px ;   
+}
+.logo1:hover{ background-color: beige; }
+
+ul{
+   border: 2px yellow solid;
+    width: 596px;
+    height: 90px;
+    float: left;
+    list-style: none;
+    padding-top: 90px;
+}
+
+li{
+    display: inline;
+    padding-left: 95px;
+    font-size: 20px;
+}
+
+.brown:link{
+    color: brown;
+}
+
+.brown:visited{
+    color: brown;
+}
+
+.brown:hover{
+    color: black;
+}
+
+main{
+    border: 2px green solid;
+    height: 600px;
+    margin-top: 10px;
+}
+
+video{
+    border: 2px violet solid;
+    width: 550px;
+    height: 596px;
+    float: left;
+    padding-left: 23px;
+    padding-right: 23px;
+}
+
+
+h2{
+    border: 2px black solid;
+    background-color: beige;
+    width: 596px;
+    height: 346px;
+    font-size: 25px;
+    text-align: center;
+    float: right;
+    padding-top: 250px;
+}
+
+span{
+    color: brown;
+}
+
+article{
+    border: 2px black solid;
+    width: 1196px;
+    height: 80px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    padding-top: 70px;
+    font-size: 20px;
+}
+.ideas{
+    border: 2px blue solid;
+    height: 281px;
+    width: 1196px;
+    margin-top: 10px;
+
+}
+.banner1{
+    width: 500px;
+    float: left;
+}
+
+.banner2{
+    width: 500px;
+    float:right ;
+}
+
+footer{
+    border: 2px mediumaquamarine solid;
+    height: 70px;
+    width: 1196px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+  
+}
